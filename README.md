@@ -1,6 +1,8 @@
 <h1 align="center">I'm Aschtar</h1>
 <h3 align="center">Just some dude.</h3>
 
+<a href="https://imgur.com/boyXVMm"><img src="https://i.imgur.com/boyXVMm.gif" title="Zmodeler 3 Magic" /></a>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aschtar&label=Profile%20views&color=0e75b6&style=flat" alt="aschtar" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Aschtar?tab=repositories](https://github.com/Aschtar?tab=repositories)
