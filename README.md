@@ -1,8 +1,6 @@
 <h1 align="center">I'm Aschtar</h1>
 <h3 align="center">Just some dude.</h3>
 
-<a href="https://imgur.com/5bir9KX.mp4"><img src="https://i.imgur.com/5bir9KX.mp4" title="source: imgur.com" /></a>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aschtar&label=Profile%20views&color=0e75b6&style=flat" alt="aschtar" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Aschtar?tab=repositories](https://github.com/Aschtar?tab=repositories)
