@@ -1,7 +1,7 @@
 <h1 align="center">I'm Aschtar</h1>
 <h3 align="center">Just some dude.</h3>
 
-<a href="https://imgur.com/boyXVMm"><img src="https://i.imgur.com/boyXVMm.gif" title="Zmodeler 3 Magic" /></a>
+<a href="https://imgur.com/boyXVMm"><img align="center" alt="Coding" width="500" img src="https://i.imgur.com/boyXVMm.gif" title="Zmodeler 3 Magic" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aschtar&label=Profile%20views&color=0e75b6&style=flat" alt="aschtar" /> </p>
 
