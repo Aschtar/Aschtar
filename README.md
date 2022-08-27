@@ -1,7 +1,7 @@
 <h1 align="center">I'm Aschtar</h1>
 <h3 align="center">Just some dude.</h3>
 
-(img align="right" alt="Coding" width="400" src="https://imgur.com/5bir9KX")
+<a href="https://imgur.com/5bir9KX"><img src="https://imgur.com/5bir9KX" title="source: imgur.com" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aschtar&label=Profile%20views&color=0e75b6&style=flat" alt="aschtar" /> </p>
 
