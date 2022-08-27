@@ -3,8 +3,6 @@
 
 <a href="https://imgur.com/boyXVMm"><img align="center" alt="Coding" width="500" img src="https://i.imgur.com/boyXVMm.gif" title="Zmodeler 3 Magic" /></a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aschtar&label=Profile%20views&color=0e75b6&style=flat" alt="aschtar" /> </p>
-
 - 👨‍💻 All of my projects are available at [https://github.com/Aschtar?tab=repositories](https://github.com/Aschtar?tab=repositories)
 
 - 💬 Ask me about **my projects.**
