@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **my projects.**
 
-- 📫 How to reach me **Discrod: Aschtar#6543**
+- 📫 How to reach me **Discord: Aschtar#6543**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
